@@ -33,11 +33,6 @@ __Problems we are trying to Solve and our main goal/objectves__
 
 <br>
 
-# <h2 id="link2">Business Requirement Document and Data Gathering</h2>
-
-<br>
-
-
 # <h2 id="link3">Data Modeling</h2> <br>
 
 I'm going to use __Star Schema__ as for data modeling in my data.<br>
