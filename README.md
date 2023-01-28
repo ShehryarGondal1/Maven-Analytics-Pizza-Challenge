@@ -88,8 +88,14 @@ Avg_order_value = DIVIDE(CALCULATE(SUM(order_details[Sales])),order_details[NO_o
 Here's some snapshot of my dashboard : <br>
 
 ![image](Main_Page.PNG)<br>
+<br>
+
 ![image](Category_wise.PNG)<br>
+<br>
+
 ![image](Size_wise.PNG)<br>
+<br>
+
 ![image](Pizza_name_wise.PNG)<br>
 
 If you want to see my __Visuals and its working in detail__ . So , Kindly  visit to my __Pizza_Sales_Dashboard.pbix__ 
